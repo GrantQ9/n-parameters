@@ -43,3 +43,4 @@ ch10_data |> sample_frac(0.5) |>
   )
 ```
 
+We're using data from a 2006 experiment involving sending postcards to 180,000 households to see how postcards could effect the 2026 Texas gubernatorial election's voter participation rate.
